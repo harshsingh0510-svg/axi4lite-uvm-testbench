@@ -1,6 +1,6 @@
-// axi4l_seq.sv
-// AXI4-Lite UVM sequence
-// Author: Harsh Singh
+
+
+
 class axil_seq extends uvm_sequence#(axil_seq_item);
 
 `uvm_object_utils(axil_seq)
