@@ -1,6 +1,6 @@
-// axi4l_interface.sv
-// AXI4-Lite UVM interface
-// Author: Harsh Singh
+
+
+
 interface axil_interface();
 
 //clk
