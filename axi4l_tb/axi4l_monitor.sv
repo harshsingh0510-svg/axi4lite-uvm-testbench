@@ -1,6 +1,6 @@
-// axil4_monitor.sv
-// AXI4-Lite UVM monitor
-// Author: Harsh Singh
+
+
+
 Class axil_monitor extends uvm_monitor#(axil_seq_item);
 
 //Registering class to factory
