@@ -1,6 +1,6 @@
-// axi4l_scoreboard.sv
-// AXI4-Lite UVM Scoreboard
-// Author: Harsh Singh
+
+
+
 Class axil_scoreboard extends uvm_scoreboard#(axil_seq_item);
 
 //registering class to factory
