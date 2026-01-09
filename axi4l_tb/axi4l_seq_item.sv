@@ -1,6 +1,6 @@
-// axi4l_seq_item.sv
-// AXI4-Lite UVM sequence_item
-// Author: Harsh Singh
+
+
+
 class axil_seq_item extends uvm_sequence_item;
 
 typedef enum {
