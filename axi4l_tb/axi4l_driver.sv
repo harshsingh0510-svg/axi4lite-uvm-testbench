@@ -1,6 +1,6 @@
-// axi_driver.sv
-// AXI4-Lite UVM Driver
-// Author: Harsh Singh
+
+
+
 Class axil_driver extends uvm_driver#(axil_seq_item);
 
 //Registering class to factory
